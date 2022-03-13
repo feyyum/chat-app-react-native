@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "253976393671",
+    "project_id": "messaging-app-flow",
+    "storage_bucket": "messaging-app-flow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253976393671:android:3541833a9b7700e7340be2",
+        "android_client_info": {
+          "package_name": "com.flow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253976393671-plf0c140nn7ru7mpneotrdmno41ge1ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flow",
+            "certificate_hash": "e242630cbc577896775fe592632bf4c49a70b5a2"
+          }
+        },
+        {
+          "client_id": "253976393671-0b5fv2s8fc2t2bqd89d76r8pekfab3ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn1qrcjwWCOXQKtOxy1oeeuPh8YXdFVps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253976393671-0b5fv2s8fc2t2bqd89d76r8pekfab3ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
